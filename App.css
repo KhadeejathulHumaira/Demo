@@ -1,0 +1,10 @@
+
+*{
+  background-color: #080808
+}.App {
+  margin:0;
+  width:1440px;
+  margin:auto;
+  height: 100vh;
+  background-color: #080808;
+}
